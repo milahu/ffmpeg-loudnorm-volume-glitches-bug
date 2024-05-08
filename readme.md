@@ -9,3 +9,7 @@ note the differences before second 58 and 64
 ![](cut.mp3.spectrum.png)
 
 ![](cut.mp3.loud.320k.mp3.spectrum.png)
+
+with audacity normalization this just works
+
+![](cut.audacity.loud.320k.mp3.spectrum.png)
